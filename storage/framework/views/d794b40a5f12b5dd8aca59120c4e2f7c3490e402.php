@@ -1,0 +1,1 @@
+<?php echo e(Cart::instance('shopping')->count()); ?><?php /**PATH C:\laragon\www\shop\resources\views/frontEnd/layouts/ajax/cart_count.blade.php ENDPATH**/ ?>
